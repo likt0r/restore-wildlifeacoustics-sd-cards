@@ -11,8 +11,8 @@ With the help of the python script in this repository you will be able to restor
 - A computer running Linux (e.g., Ubuntu, Fedora)
 - An SD card reader
 - `TestDisk/PhotoRec` installed on your system
-- `conda` installedo n your system
 - local copy of this repository
+- installed Pythonpackage `guano`
 
 ## Step 1: Install TestDisk/PhotoRec
 
