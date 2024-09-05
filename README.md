@@ -125,3 +125,11 @@ insgesamt 1845012
 ...
 ```
 
+## 5.Rename files based on Metadata
+Use the python script rename_broken_files.py
+
+```bash
+# --move will move not copy the files to new target folder with new names
+# --group-by-month will create subfolders prefix_YYYYMM and copy/move all files ov the month in it
+python rename_broken_files.py ~/restore ~/target
+```
